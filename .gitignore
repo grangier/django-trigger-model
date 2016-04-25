@@ -1,0 +1,16 @@
+.*.swp
+*.orig
+*.pyc
+*.pyo
+*~
+*.DS_Store
+.installed.cfg
+.bash*
+.ipython
+.mysql_history
+.psql_history
+.ssh
+.bashrc
+.profile
+.subversion
+.sass-cache/
